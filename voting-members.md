@@ -12,7 +12,7 @@ The following organizations have voting rights:
 - Centre for the Governance of AI
 - Cosmos Institute
 - LangChain
-- Massachussets Institute of Technology
+- Massachusets Institute of Technology
 - Stanford University
 - University of Oxford
 - Wildcard
