@@ -8,6 +8,7 @@ Being a voting member is not an indication of endorsement or affiliation between
 The following organizations have voting rights:
 - Agora Protocol
 - Agent Network Protocol
+- Camel AI
 - Centre for the Governance of AI
 - Cosmos Institute
 - LangChain
