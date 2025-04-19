@@ -6,13 +6,14 @@ It is worth noting that voting is a last-resort mechanism and in general we stri
 Being a voting member is not an indication of endorsement or affiliation between the organization and the LAS-WG.
 
 The following organizations have voting rights:
+- AgentOps
 - Agora Protocol
 - Agent Network Protocol
 - Camel AI
 - Centre for the Governance of AI
 - Cosmos Institute
 - LangChain
-- Massachusets Institute of Technology
+- Massachusetts Institute of Technology
 - Stanford University
 - University of Oxford
 - Wildcard
